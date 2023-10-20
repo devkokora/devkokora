@@ -1,4 +1,4 @@
-https://www.codewars.com/users/devkokora/badges/large
+![Alt Text](https://www.codewars.com/users/devkokora/badges/large)
 
 <!--
 **devkokora/devkokora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
