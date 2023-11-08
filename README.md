@@ -1,7 +1,5 @@
 ![Alt Text](https://www.codewars.com/users/devkokora/badges/large)
 <hr/>
-## &#x1f4c8; GitHub Stats
-
 <p>
 <a href="https://github.com/devkokora/devkokora">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkokora&hide=java,html,tex&show_icons=true&theme=synthwave&langs_count=3" />
