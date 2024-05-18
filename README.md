@@ -1,10 +1,7 @@
-![Alt Text](https://www.codewars.com/users/devkokora/badges/large)
-<hr/>
-<p>
+
 <a href="https://github.com/devkokora/devkokora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkokora&hide=java,html,tex&show_icons=true&theme=synthwave&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkokora&layout=compact&hide=html,tex&show_icons=true&theme=chartreuse-dark&langs_count=10" />
 </a>
-</p>
 <!--
 **devkokora/devkokora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
